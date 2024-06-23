@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 /bin/
 =======
+=======
+>>>>>>> 8666b2123405d9557cb2466cf04abd319ba90e60
 # Compiled class file
 *.class
 
@@ -25,4 +28,7 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+<<<<<<< HEAD
 >>>>>>> 332468f66b1430b6e2d057f58382a4b5940f5633
+=======
+>>>>>>> 8666b2123405d9557cb2466cf04abd319ba90e60
